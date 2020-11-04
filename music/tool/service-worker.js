@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.6ed3441a01bcc627240b5f989c02cee8.js"
+  "precache-manifest.4071da25fcfe75e5ce2984870be0767f.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "unlock-music"});
